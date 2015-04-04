@@ -10,7 +10,7 @@
 #include<netinet/tcp.h>
 #include<arpa/inet.h>
 #include<linux/if_ether.h>
-#include<glib/glib.h>
+#include<glib.h>
 #include<time.h>
 
 #include "lookup.h"

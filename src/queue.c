@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdint.h>
-#include<glib/glib.h>
+#include<glib.h>
 #include<errno.h>
 
 struct args {
